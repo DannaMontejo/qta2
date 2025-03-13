@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Credito Hipotecario</string>
+    <string name="simuladores">Simuladores</string>
+    <string name="credito_texto">Crédito Hipotecario en Colombia</string>
+    <string name="valor_de_la_propiedad">* Valor de la propiedad</string>
+    <string name="texto_1">El valor de la propiedad no puede ser inferior a $70.000.000</string>
+    <string name="subtitulo_2">* ¿Cuánto necesitas?</string>
+    <string name="simular">Simular</string>
+    <string name="texto_4">Esta tasa depende de tu historial crediticio y del banco en el que pidas el crédito.</string>
+
+</resources>
